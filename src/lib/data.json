@@ -1,0 +1,64 @@
+{
+    "brands" : [
+        {
+            "name": "Audi",
+            "logo": "https://assets.stickpng.com/thumbs/5ec3e46558550c000442774b.png"
+        },
+        {
+            "name": "BMW",
+            "logo": "https://w7.pngwing.com/pngs/509/532/png-transparent-volkswagen-group-car-logo-volkswagen-car-logo-brand-emblem-trademark-volkswagen-thumbnail.png"
+        },
+        {
+            "name": "Ford",
+            "logo": "https://www.freepnglogos.com/uploads/ford-cars-logo-brands-png-images-15.png"
+        },
+        {
+            "name": "Kia",
+            "logo": "https://www.freepnglogos.com/uploads/kia-car-logo-png-brand-image-33.png"
+        },
+        {
+            "name": "Mercedes Benz",
+            "logo": "https://www.freepnglogos.com/uploads/mercedes-benz-car-logo-png-brand-image-1.png"
+        },
+        {
+            "name": "Jaguar",
+            "logo": "https://www.freepnglogos.com/uploads/nissan-car-logo-png-brand-image-24.png"
+        },
+        {
+            "name": "Volkswagen",
+            "logo": "https://www.freepnglogos.com/uploads/car-logo-volkswagen-transparent-png-27.png"
+        }
+    
+    ],
+    "services": [
+        {
+          "title" : "What you need to know before Renting a car",
+          "description" : " Kindly read the following information carefully, as they set out the terms and conditions for your rental car at marrakech with our company."
+        },
+        {
+          "title" : "Duration",
+          "description" : "The rental period can only be extended with our agreement.And for all delivery, the minimum rental period must be equal to or greater than 7 days."
+        },
+        {
+          "title" : "Insurances",
+          "description" : "Our rates include liability to third party with an excess, And using unpaved roads is prohibited , damages caused are not covered by insurance."
+        },
+        {
+          "title" : "Fuel",
+          "description" : "The car will be returned with the same level as on delivery, any supplement fuel left not be refunded."
+        },
+        {
+            "title" : "Required Documents",
+            "description" : "Driver licence,  Passeport, Original documents required, Driving licence of 2 years minimum."
+          },
+          {
+            "title" : "Payment",
+            "description" : "Payment by cash / credit card at the pick-up or you can choose to pay online."
+          },
+          {
+            "title" : "Refunds",
+            "description" : "Refunds not allowed in the event of the hire being terminated early. If you choose online paiement, You can cancel the reservation up to 48h before the rental is due to start. In case your the payment is already received we will keep the full amount for upcoming reservation. Once you have made a reservation you must wait for a confirmation from us within 6 hours."
+          }
+      ]
+    
+}
